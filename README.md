@@ -1,4 +1,5 @@
-- 🔭 I’m currently working on Computer Security
+- 👋 Hi, everyone, I’m martind6586
+-  🔭 I’m currently working on Computer Security
 - 🌱 I’m currently learning about BTC. It's elegant.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
